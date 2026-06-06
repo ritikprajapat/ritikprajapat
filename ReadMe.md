@@ -3,7 +3,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Merriweather&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ritik+Prajapat+!;" />
 </h1>
 
-❤️❤️ Greetings, everyone!! I'm Ritik Prajapat. ❤️❤️<br>🧑🏻‍💻🧑🏻‍💻 I have completed my Computer Engineering from VIVA College of Diploma Engineering & Technology.<br>📱💻 I aspire to become a UI Designer and web developer, and I enjoy creating UI designs for mobile apps and website layouts.<br>⚡⚡ Apart from this, when it comes to my personality and hobbies, I like to interact and communicate with different people.<br>❤️😊 I also enjoy watching anime.
+❤️❤️ Greetings, everyone!! I'm Ritik Prajapat. ❤️❤️
+<br>🎓 I have completed my Computer Engineering from VIVA College of Diploma Engineering & Technology.
+<br>💼🧑🏻‍💻 I work as a Flutter Developer at Taurus LLC, building cross-platform apps in InsurTech & Property Management.
+<br>🛠️ My tech stack includes Flutter • Dart • Firebase • GitHub Actions • Fastlane.
+<br>📱💻 I aspire to become a UI Designer and Web Developer, and I enjoy creating UI designs for mobile apps and website layouts.
+<br>⚡⚡ Apart from this, when it comes to my personality and hobbies, I like to interact and communicate with different people.
+<br>❤️😊 I also enjoy watching anime.
 
 
 # 🌐 Socials:
