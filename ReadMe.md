@@ -1,16 +1,17 @@
 # 💫 About Me:
+
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Merriweather&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ritik+Prajapat+!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Merriweather&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ritik+Prajapat!" />
 </h1>
 
-❤️❤️ Greetings, everyone!! I'm Ritik Prajapat. ❤️❤️
-<br>🎓 I have completed my Computer Engineering from VIVA College of Diploma Engineering & Technology.
-<br>💼🧑🏻‍💻 I work as a Flutter Developer at Taurus LLC, building cross-platform apps in InsurTech & Property Management.
-<br>🛠️ My tech stack includes Flutter • Dart • Firebase • GitHub Actions • Fastlane.
-<br>📱💻 I aspire to become a UI Designer and Web Developer, and I enjoy creating UI designs for mobile apps and website layouts.
-<br>⚡⚡ Apart from this, when it comes to my personality and hobbies, I like to interact and communicate with different people.
-<br>❤️😊 I also enjoy watching anime.
-
+👋 Hello! I'm Ritik Prajapat, a passionate Flutter Developer focused on building scalable and user-friendly mobile applications.
+<br>🎓 I have completed my Diploma in Computer Engineering from VIVA College of Diploma Engineering & Technology.
+<br>💼🧑🏻‍💻 I work as a Software Engineer I at Taurus LLC, developing production-grade cross-platform applications in InsurTech and Property Tech.
+<br>🛠️ My tech stack includes Flutter • Dart • Firebase • REST APIs • BLoC • GitHub Actions • Fastlane.
+<br>🚀 I enjoy building scalable applications, exploring AI integration, improving app performance, and automating development workflows.
+<br>🎨 I also have an interest in UI/UX design and modern web technologies.
+<br>⚡ I love exploring new technologies, solving challenging problems, and connecting with people from different backgrounds.
+<br>❤️ Outside of coding, I enjoy watching anime and discovering new things.
 
 # 🌐 Socials:
 <div align=center>
